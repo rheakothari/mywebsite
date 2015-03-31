@@ -1,0 +1,151 @@
+.navigation, .main {
+	text-align: center;
+	color: white;
+	font-family: Geneva;
+	font-size: 20px;
+}
+
+nav {
+	font-size: 50px;
+	display: inline;
+	text-align: center;
+	text-color: white;
+
+}
+
+.nav, li {
+	display: inline;
+	list-style-type: none;
+	font-family: Helvetica;
+	text-color: white;
+	text-align: center;
+}
+
+.Rhea {
+	width: 210px;
+	height: 220px;
+	border-radius: 50%;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 15px;
+}
+
+body, .home {
+	background-image: url("barnard.png");
+	background-repeat: none;
+	background-size: cover;
+	background-position: center;
+}
+
+.paragraph {
+	font-size: 30px;
+	color: white;
+	text-align: center;
+	font-weight: bold;
+	font-family: Geneva;
+}
+
+
+<!--this is the css for resume--!>
+
+body, #header, #name {
+	color: white;
+	font-size: 30px;
+	text-align: center;
+	font-family: Geneva;
+}
+
+h4 {
+	text-align: center;
+	font-family: Geneva;
+	font-size: 30px;
+	color: white;
+	background-color: grey;
+}
+
+.info {
+	text-align: center;
+	font-family: Geneva;
+	font-size: 20px;
+	background-color: white;
+
+}
+
+.junior {
+	display: block;
+	text-align: center;
+	background-color: white;
+}
+
+.edu {
+	display: block;
+	text-align: center;
+	background-color: white;
+}
+
+body, .second {
+	background-image: url("magnolia.jpg");
+}
+
+#header, #name {
+	text-align: center;
+	font-size: 50px;
+	color: white;
+	font-family: Geneva;
+	background-color: #FF5050;
+}
+
+<!--gallery css--!>
+
+.gallery{
+	background: none;
+}
+.pictures{
+	display: inline-block;
+	position: center;
+	width: 10px;
+	height: 10px;
+	margin: 75%;
+}
+
+.container1 {
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	display: inline-block;
+
+}
+
+.container1, img {
+	height: 350px;
+	width: 350px;
+	position: center;
+	display: inline-block;
+	float: left;
+}
+
+.container2 {
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	display: inline-block;
+}
+
+.container2, img{
+	height: 350px;
+	width: 350px;
+	position: center;
+	display: inline-block;
+	float: right;
+}
+
+.row1 {
+	display: inline-block;
+	position: center;
+	text-align: center;
+}
+
+.row2 {
+	display: inline-block;
+	position: center;
+}
